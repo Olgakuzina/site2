@@ -1,7 +1,7 @@
-div {border: solid 3px pink;color: pink;margin: 5px;}
-#b1 {wight:100%; background-color:yellow;}
-#b2 {background-color:blue;}
-#b3 {background-color:grey;width:25%;margin:5px;float:left;}
-#b4 {background-color:grey;width:20%;border:solid 0px grey;margin:5px;float:left;}
-#b5 {background-color:grey;width:13%;margin:5px;float:left;}
-#b6 {clear:both;}
+div {border: solid 3px lightred;color: lightpink;margin: 5px;}
+#b1 {wight:100%; background-color:lightgrey;}
+#b2 {background-color:lightyellow;}
+#b3 {background-color:lightblue;width:25%;margin:2px;float:left;}
+#b4 {background-color:lightblue;width:20%;border:lightorange;margin:5px;float:left;text-indent: 5em;font-family: Helvetica,sans-serif;}
+#b5 {background-color:lightblue;margin:5px;float:left;}
+#b6 {clear:both;margin: 5px;}
