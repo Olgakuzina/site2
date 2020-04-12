@@ -1,6 +1,6 @@
 div {border: solid 3px lightred;color: lightpink;margin: 5px;}
 #b1 {wight:100%; background-color:lightgrey;}
-#b2 {background-color:lightyellow;}
+#b2 {background-color:lightyellow; }
 #b3 {background-color:lightblue;width:25%;margin:2px;float:left;}
 #b4 {background-color:lightblue;width:20%;border:lightorange;margin:5px;float:left;text-indent: 5em;font-family: Helvetica,sans-serif;}
 #b5 {background-color:lightblue;margin:5px;float:left;}
