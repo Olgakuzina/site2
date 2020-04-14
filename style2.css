@@ -1,7 +1,7 @@
-div {border: solid 3px ;color:red;margin: 5px;}
+div {border: solid 3px ;color:#229800;margin: 5px;}
 #b1 {wight:100%; background-color:#752958;}
-#b2 {background-color:#c55630; }
-#b3 {background-color:#4159e6;width:25%;margin:2px;float:left;}
-#b4 {background-color:#2f3d94;width:20%;border:#b7691e;margin:5px;float:left;text-indent: 5em;font-family: Helvetica,sans-serif;}
-#b5 {background-color:#01116d;margin:5px;float:left;}
+#b2 {background-color:#8d509e; }
+#b3 {background-color:#ba57d6;width:25%;margin:2px;float:left;}
+#b4 {background-color:#c283c7;width:20%;border:#1685b0;margin:5px;float:left;text-indent: 5em;font-family: Helvetica,sans-serif;}
+#b5 {background-color:#f7b8fd;margin:5px;float:left;}
 #b6 {clear:both;margin: 5px;}
