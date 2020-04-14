@@ -1,0 +1,9 @@
+div{border:solid 3px black;margin:5px;padding:10px;text-align:center}
+
+#b1{background:light-grew;height:190px;width:1200px}
+
+#b2{float:left;background-image:url(img2.jpg);height:500px;width:250px}
+
+#b3{float:left;background-image:url(img.jpg);height:500px;width:750px}
+
+#b5{background:pink;width:1200px;display:inline-block}
