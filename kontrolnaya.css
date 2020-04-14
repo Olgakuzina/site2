@@ -10,7 +10,7 @@ div{margin:0px;padding:0px;text-align:center}
 
 #b5{background:blue;width:20%;float:left}
 
-#b6{background-image:matem.jpg;width:60%;float:left}
+#b6{background-image: url(matem.jpg);width:60%;float:left}
 #b7{background:blue;width:20%;float:left}
 
 #b8{background:green;width:100%;margin-top:2px;clear:both}
